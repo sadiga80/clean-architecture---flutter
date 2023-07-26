@@ -29,6 +29,7 @@ dependencies:
   floor:
 
   #api request
+  dio:
   retrofit:
 
   #hooks
