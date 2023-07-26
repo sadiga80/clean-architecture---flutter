@@ -5,41 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="420cf1f6-122e-41f2-80f8-83bcfb84329d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/config/routes/routes.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/config/themes/app_theme.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/core/constants/constants.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/core/usecases/usecase.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/data/data_sources/local/DAO/article_dao.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/data/data_sources/local/app_database.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/data/data_sources/local/app_database_g.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/data/data_sources/remote/news_api_service.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/data/models/article.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/data/repository/article_repository_impl.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/domain/entities/article.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/domain/repository/article_repository.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/domain/usecases/get_article.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/domain/usecases/get_saved_article.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/domain/usecases/remove_article.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/domain/usecases/save_article.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/presentation/bloc/article/local/local_article_bloc.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/presentation/bloc/article/local/local_article_event.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/presentation/bloc/article/local/local_article_state.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/presentation/bloc/article/remote/remote_article_bloc.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/presentation/bloc/article/remote/remote_article_event.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/presentation/bloc/article/remote/remote_article_state.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/presentation/pages/article_detail/article_detail.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/presentation/pages/home/daily_news.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/presentation/pages/saved_article/saved_article.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/daily_news/presentation/widgets/article_tile.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/injection_container.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/daily_news/data/data_sources/local/app_database.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/features/daily_news/data/data_sources/local/app_database.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
